@@ -10,7 +10,9 @@ Python basic practice
     * https://medium.com/datainpoint/getting-started-with-binder-c27bb62f9028
     * https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=WzIRIt9d2huC
 * Python basic
-    * 101
+    * 101 (Type/Module) 
         * list / tuple / dict / set
         * requesets / bs4
         * numpy / pandas / matplotlib
+    * 102 (pandas)
+    
