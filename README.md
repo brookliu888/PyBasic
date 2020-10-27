@@ -14,5 +14,8 @@ Python basic practice
         * list / tuple / dict / set
         * requesets / bs4
         * numpy / pandas / matplotlib
+        * chrome developer tool 
     * 102 (pandas)
-    
+        * Yahoo Finance => OHLC
+        * Jihsun => ROE
+        * Yuantaetfs => 0050
