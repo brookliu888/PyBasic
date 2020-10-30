@@ -14,8 +14,24 @@ Python basic practice
         * list / tuple / dict / set
         * requesets / bs4
         * numpy / pandas / matplotlib
-        * chrome developer tool 
-    * 102 (pandas)
+        * chrome developer tool
+        * Web 
+            * Web cookie(Ptt)
+            * Web header(playload)
+    * 102 (requests/pandas/BeautifulSoup/)
         * Yahoo Finance => OHLC
         * Jihsun => ROE
         * Yuantaetfs => 0050
+        * Yahoo tw /google search => OHLC 
+    * 103 (Selenium/WebDriver)
+        * sinopac bank
+    * 104 (csv/SQLite)
+    * 201 (Application)
+        * LineNotify
+        * Save Image
+        * folium
+        * Regular
+    
+        
+
+
