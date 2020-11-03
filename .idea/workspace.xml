@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1bbd815-c576-4972-84c1-27136ebe0e66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/101/使用folium來繪製地圖.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyBasic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyBasic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
