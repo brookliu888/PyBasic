@@ -17,6 +17,8 @@ Python basic practice
                 * virtualenv activate / deactivate
                 * pip install -r requirements.txt
                 * Setting virtualenv for pycharm
+        * 當網頁很複雜時=>行動版 or 列印網頁 來下手
+        
         * html parser 
             * requests and BeautifulSoup
     * 101 (Type/Module) 
@@ -43,7 +45,9 @@ Python basic practice
     * Todo
         * 將停車場資訊使用folium來實作
            * https://data.kcg.gov.tw/dataset/private-parking-area/resource/f7a489d4-18ca-46a6-9404-1a4a9ee66c3e
-           
+        * ComicCrawler
+            * https://github.com/eight04/ComicCrawler
+            
         
     
         
