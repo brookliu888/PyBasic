@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1bbd815-c576-4972-84c1-27136ebe0e66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/101/bsnavigation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/Dcard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,33 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/101/bsnavigation.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BrookLiu\Desktop\Project\python\PyBasic\Example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Dcard">
+    <configuration name="Dcard" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyBasic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/101" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\BrookLiu\Desktop\Project\python\PyBasic\Example\Dcard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="bsnavigation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyBasic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Dcard" />
         <item itemvalue="Python.bsnavigation" />
       </list>
     </recent_temporary>
@@ -89,42 +117,46 @@
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
     <state x="-2020" y="191" key="FileChooserDialogImpl/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604459159571" />
-    <state width="1685" height="245" key="GridCell.Tab.0.bottom" timestamp="1604459172841">
+    <state width="1601" height="245" key="GridCell.Tab.0.bottom" timestamp="1604546467829">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state width="1685" height="245" key="GridCell.Tab.0.bottom/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604459172841" />
-    <state width="1685" height="245" key="GridCell.Tab.0.center" timestamp="1604459172841">
+    <state width="1601" height="245" key="GridCell.Tab.0.bottom/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604546467829" />
+    <state width="1601" height="245" key="GridCell.Tab.0.center" timestamp="1604546467828">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state width="1685" height="245" key="GridCell.Tab.0.center/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604459172841" />
-    <state width="1685" height="245" key="GridCell.Tab.0.left" timestamp="1604459172841">
+    <state width="1601" height="245" key="GridCell.Tab.0.center/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604546467828" />
+    <state width="1601" height="245" key="GridCell.Tab.0.left" timestamp="1604546467828">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state width="1685" height="245" key="GridCell.Tab.0.left/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604459172841" />
-    <state width="1685" height="245" key="GridCell.Tab.0.right" timestamp="1604459172841">
+    <state width="1601" height="245" key="GridCell.Tab.0.left/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604546467828" />
+    <state width="1601" height="245" key="GridCell.Tab.0.right" timestamp="1604546467829">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state width="1685" height="245" key="GridCell.Tab.0.right/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604459172841" />
-    <state width="1685" height="299" key="GridCell.Tab.1.bottom" timestamp="1604458601128">
+    <state width="1601" height="245" key="GridCell.Tab.0.right/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604546467829" />
+    <state width="1601" height="293" key="GridCell.Tab.1.bottom" timestamp="1604544567379">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state width="1685" height="299" key="GridCell.Tab.1.bottom/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604458601128" />
-    <state width="1685" height="299" key="GridCell.Tab.1.center" timestamp="1604458601128">
+    <state width="1601" height="293" key="GridCell.Tab.1.bottom/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604544567379" />
+    <state width="1601" height="293" key="GridCell.Tab.1.center" timestamp="1604544567379">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state width="1685" height="299" key="GridCell.Tab.1.center/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604458601128" />
-    <state width="1685" height="299" key="GridCell.Tab.1.left" timestamp="1604458601128">
+    <state width="1601" height="293" key="GridCell.Tab.1.center/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604544567379" />
+    <state width="1601" height="293" key="GridCell.Tab.1.left" timestamp="1604544567379">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state width="1685" height="299" key="GridCell.Tab.1.left/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604458601128" />
-    <state width="1685" height="299" key="GridCell.Tab.1.right" timestamp="1604458601128">
+    <state width="1601" height="293" key="GridCell.Tab.1.left/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604544567379" />
+    <state width="1601" height="293" key="GridCell.Tab.1.right" timestamp="1604544567379">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state width="1685" height="299" key="GridCell.Tab.1.right/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604458601128" />
-    <state x="-2298" y="81" key="SettingsEditor" timestamp="1604368492048">
+    <state width="1601" height="293" key="GridCell.Tab.1.right/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604544567379" />
+    <state x="-2298" y="81" key="SettingsEditor" timestamp="1604541582581">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state x="-2298" y="81" key="SettingsEditor/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604368492048" />
+    <state x="-2298" y="81" key="SettingsEditor/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604541582581" />
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1604230999901" />
+    <state x="-2567" y="0" width="1283" height="631" key="dock-window-1" timestamp="1604546523145">
+      <screen x="-2560" y="0" width="1707" height="925" />
+    </state>
+    <state x="-2567" y="0" width="1283" height="631" key="dock-window-1/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604546523145" />
   </component>
 </project>

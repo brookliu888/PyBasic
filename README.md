@@ -20,7 +20,8 @@ Python basic practice
         * 當網頁很複雜時=>行動版 or 列印網頁 來下手
         
         * html parser 
-            * requests and BeautifulSoup
+            * requests 、BeautifulSoup and regular
+            * Dcard.py
     * 101 (Type/Module) 
         * list / tuple / dict / set
         * requesets / bs4
