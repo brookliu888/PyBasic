@@ -44,13 +44,15 @@ Python basic practice
         * folium
         * Regular
             * https://regex101.com/
+    
     * Todo
         * 將停車場資訊使用folium來實作
            * https://data.kcg.gov.tw/dataset/private-parking-area/resource/f7a489d4-18ca-46a6-9404-1a4a9ee66c3e
         * ComicCrawler
             * https://github.com/eight04/ComicCrawler
             
-        
+    * Reference
+        * [Python爬蟲學習筆記](https://yanwei-liu.medium.com/python%E7%88%AC%E8%9F%B2%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E4%B8%80-beautifulsoup-1ee011df8768)    
     
         
 
