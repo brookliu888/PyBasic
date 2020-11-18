@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1bbd815-c576-4972-84c1-27136ebe0e66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Example/ptt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/101/pd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/ebooks/books.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/ebooks/ebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/ebooks/人生真相學.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/ebooks/人生真相學/001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/ebooks/人生真相學/002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/ebooks/人生真相學/003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/ebooks/人生真相學/004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/ebooks/人生真相學/005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/ebooks/人生真相學/006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example/ebooks/人生真相學/007.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,15 +41,16 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/101/bsnavigation.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Example/ebooks" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BrookLiu\Desktop\Project\python\PyBasic\Example\ebooks" />
       <recent name="C:\Users\BrookLiu\Desktop\Project\python\PyBasic\Example" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ptt">
+  <component name="RunManager" selected="Python.ebook">
     <configuration name="Dcard" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyBasic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,6 +93,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ebook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyBasic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\BrookLiu\Desktop\Project\python\PyBasic\Example\ebooks\ebook.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyBasic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/101" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\BrookLiu\Desktop\Project\python\PyBasic\101\pd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ptt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyBasic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,6 +158,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ebook" />
+        <item itemvalue="Python.pd" />
         <item itemvalue="Python.ptt" />
         <item itemvalue="Python.Dcard" />
         <item itemvalue="Python.bsnavigation" />
@@ -135,46 +189,46 @@
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
     <state x="-1972" y="266" key="#com.intellij.fileTypes.FileTypeChooser/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604459041221" />
-    <state x="-2020" y="191" key="FileChooserDialogImpl" timestamp="1604459159571">
+    <state x="-2020" y="191" key="FileChooserDialogImpl" timestamp="1605682045526">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state x="-2020" y="191" key="FileChooserDialogImpl/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604459159571" />
-    <state width="1319" height="269" key="GridCell.Tab.0.bottom" timestamp="1604565160473">
+    <state x="-2020" y="191" key="FileChooserDialogImpl/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1605682045526" />
+    <state width="1184" height="308" key="GridCell.Tab.0.bottom" timestamp="1605687865932">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state width="1319" height="269" key="GridCell.Tab.0.bottom/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604565160473" />
-    <state width="1319" height="269" key="GridCell.Tab.0.center" timestamp="1604565160473">
+    <state width="1184" height="308" key="GridCell.Tab.0.bottom/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1605687865932" />
+    <state width="1184" height="308" key="GridCell.Tab.0.center" timestamp="1605687865932">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state width="1319" height="269" key="GridCell.Tab.0.center/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604565160473" />
-    <state width="1319" height="269" key="GridCell.Tab.0.left" timestamp="1604565160473">
+    <state width="1184" height="308" key="GridCell.Tab.0.center/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1605687865932" />
+    <state width="1184" height="308" key="GridCell.Tab.0.left" timestamp="1605687865932">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state width="1319" height="269" key="GridCell.Tab.0.left/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604565160473" />
-    <state width="1319" height="269" key="GridCell.Tab.0.right" timestamp="1604565160473">
+    <state width="1184" height="308" key="GridCell.Tab.0.left/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1605687865932" />
+    <state width="1184" height="308" key="GridCell.Tab.0.right" timestamp="1605687865932">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state width="1319" height="269" key="GridCell.Tab.0.right/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604565160473" />
-    <state width="1601" height="293" key="GridCell.Tab.1.bottom" timestamp="1604544567379">
+    <state width="1184" height="308" key="GridCell.Tab.0.right/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1605687865932" />
+    <state width="1671" height="293" key="GridCell.Tab.1.bottom" timestamp="1604915628145">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state width="1601" height="293" key="GridCell.Tab.1.bottom/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604544567379" />
-    <state width="1601" height="293" key="GridCell.Tab.1.center" timestamp="1604544567379">
+    <state width="1671" height="293" key="GridCell.Tab.1.bottom/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604915628145" />
+    <state width="1671" height="293" key="GridCell.Tab.1.center" timestamp="1604915628145">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state width="1601" height="293" key="GridCell.Tab.1.center/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604544567379" />
-    <state width="1601" height="293" key="GridCell.Tab.1.left" timestamp="1604544567379">
+    <state width="1671" height="293" key="GridCell.Tab.1.center/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604915628145" />
+    <state width="1671" height="293" key="GridCell.Tab.1.left" timestamp="1604915628144">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state width="1601" height="293" key="GridCell.Tab.1.left/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604544567379" />
-    <state width="1601" height="293" key="GridCell.Tab.1.right" timestamp="1604544567379">
+    <state width="1671" height="293" key="GridCell.Tab.1.left/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604915628144" />
+    <state width="1671" height="293" key="GridCell.Tab.1.right" timestamp="1604915628145">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state width="1601" height="293" key="GridCell.Tab.1.right/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604544567379" />
-    <state x="-2298" y="81" key="SettingsEditor" timestamp="1604564153190">
+    <state width="1671" height="293" key="GridCell.Tab.1.right/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604915628145" />
+    <state x="-2298" y="81" key="SettingsEditor" timestamp="1605602480493">
       <screen x="-2560" y="0" width="1707" height="925" />
     </state>
-    <state x="-2298" y="81" key="SettingsEditor/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1604564153190" />
+    <state x="-2298" y="81" key="SettingsEditor/-2560.0.1707.925/0.0.1829.999@-2560.0.1707.925" timestamp="1605602480493" />
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1604230999901" />
     <state x="-2567" y="0" width="1283" height="631" key="dock-window-1" timestamp="1604546523145">
       <screen x="-2560" y="0" width="1707" height="925" />
