@@ -99,6 +99,6 @@ if __name__ == '__main__':
     getBooks(txtContent)
     print("Download finished!")
     ebookDict = setEbookDict(currentDir)
-    print(ebookDict)
+    #print(ebookDict)
     merge2pdf(ebookDict)
     print("Finish")
